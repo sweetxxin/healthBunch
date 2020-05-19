@@ -226,7 +226,7 @@ class Info{
     String temp = "36.3";
     String username="";
     String password = "";
-    String mail="1208668915@qq.com";
+    String mail="xxxx@qq.com";
 
     @Override
     public String toString() {
